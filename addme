@@ -1,0 +1,14 @@
+jsut run whole project 
+for seede r
+npm install -g sequelize-cli
+
+Juhi@LAPTOP MINGW64 /e/dddd/backend/src
+$ npx sequelize-cli db:seed:all
+
+
+
+go to seeder directory
+
+
+
+
